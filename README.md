@@ -1,7 +1,8 @@
 # Cotegorithm
 Algorithm study for coding tests
 
-![coding_cat](https://media1.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+<img src="https://media1.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="coding_cat" width="400">
+
 
 using virtual env -n cote
 
