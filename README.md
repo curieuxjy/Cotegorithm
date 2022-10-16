@@ -14,6 +14,8 @@ using virtual env -n cote
 - 파이썬 알고리즘 인터뷰(`question_01`~`question_88`)
 
 - fastcampus 개발자취업합격패스With코딩테스트,기술면접초격차 패키지Online
+
+- https://github.com/TheAlgorithms/Python
     
 - Programmers
     - https://school.programmers.co.kr/learn/challenges
